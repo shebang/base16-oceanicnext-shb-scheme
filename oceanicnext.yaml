@@ -1,0 +1,73 @@
+scheme: "OceanicNext"
+author: "https://github.com/voronianski/oceanic-next-color-scheme"
+base00: "1B2B34"
+base01: "343D46"
+base02: "4F5B66"
+base03: "65737E"
+base04: "A7ADBA"
+base05: "C0C5CE"
+base06: "CDD3DE"
+base07: "D8DEE9"
+base08: "EC5f67"
+base09: "F99157"
+base0A: "FAC863"
+base0B: "99C794"
+base0C: "5FB3B3"
+base0D: "6699CC"
+base0E: "C594C5"
+base0F: "AB7967"
+
+#
+# reserved for extending base16
+#
+
+base10: "c0c0c0" #
+base11: "c0c0c0" #
+base12: "c0c0c0" #
+base13: "c0c0c0" #
+base14: "c0c0c0" #
+base15: "c0c0c0" #
+base16: "c0c0c0" #
+base17: "c0c0c0" #
+base18: "c0c0c0" #
+base19: "c0c0c0" #
+base1A: "c0c0c0" #
+base1B: "c0c0c0" #
+base1C: "c0c0c0" #
+base1D: "c0c0c0" #
+base1E: "c0c0c0" #
+base1F: "c0c0c0" #
+
+base20: "c0c0c0" # sign 0 - lowest priority (hardly visible)
+base21: "c0c0c0" # sign 1
+base22: "c0c0c0" # sign 2
+base23: "c0c0c0" # sign 3
+base24: "c0c0c0" # sign 4
+base25: "c0c0c0" # sign 5
+base26: "c0c0c0" # sign 6
+base27: "c0c0c0" # sign 7 - highest priority (in your face error message)
+base28: "c0c0c0" # reserved
+base29: "c0c0c0" # reserved
+base2A: "c0c0c0" # reserved
+base2B: "c0c0c0" # reserved
+base2C: "c0c0c0" # reserved
+base2D: "c0c0c0" # reserved
+base2E: "c0c0c0" # reserved
+base2F: "c0c0c0" # reserved
+
+base30: "c0c0c0" #
+base31: "c0c0c0" #
+base32: "c0c0c0" #
+base33: "c0c0c0" #
+base34: "c0c0c0" #
+base35: "c0c0c0" #
+base36: "c0c0c0" #
+base37: "c0c0c0" #
+base38: "c0c0c0" #
+base39: "c0c0c0" #
+base3A: "c0c0c0" #
+base3B: "c0c0c0" #
+base3C: "c0c0c0" #
+base3D: "c0c0c0" #
+base3E: "c0c0c0" #
+base3F: "c0c0c0" #
